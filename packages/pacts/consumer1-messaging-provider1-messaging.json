@@ -1,0 +1,790 @@
+{
+  "consumer": {
+    "name": "consumer1-messaging"
+  },
+  "messages": [
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    },
+    {
+      "contents": {
+        "type": "foo"
+      },
+      "description": "foo message"
+    }
+  ],
+  "metadata": {
+    "pact-js": {
+      "version": "12.3.0"
+    },
+    "pactRust": {
+      "ffi": "0.4.16",
+      "models": "1.1.19"
+    },
+    "pactSpecification": {
+      "version": "3.0.0"
+    }
+  },
+  "provider": {
+    "name": "provider1-messaging"
+  }
+}

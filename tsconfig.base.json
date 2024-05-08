@@ -1,0 +1,18 @@
+{
+  "display": "This file is not intended for direct usage. It should be extended",
+
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["ES2019"],
+    "baseUrl": "!!! should-be-overridden",
+    "module": "commonjs",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "composite": true,
+    "paths": {
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pacts",
+  "version": "1.0.0",
+  "description": "pacts",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": {
+    "nohoist": [
+      "**"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
